@@ -14,7 +14,7 @@
 - 📚 &nbsp; Practicing C++ and Data Structures & Algorithms for software engineering roles  
 - 🚀 &nbsp; Currently working on HabitGuard, a digital wellbeing project focused on reducing unhealthy screen-time patterns  
 
-<br>
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -25,7 +25,7 @@
 - 🛢 &nbsp; SQLite | MySQL | MongoDB  
 - 🔧 &nbsp; Git | GitHub | VS Code  
 
-<br>
+
 
 <h3>🚀 Projects</h3>
 
@@ -35,16 +35,16 @@
 - 🔹 &nbsp; <b>Eco Fashion Retailer</b> — Frontend e-commerce project with cart, checkout, and eco-impact features  
 - 🔹 &nbsp; <b>Automobile Showroom DBMS</b> — C++ and SQLite-based database management system  
 
-<br>
 
-<h3>🌱 Currently Learning</h3>
+
+<!-- <h3>🌱 Currently Learning</h3>
 
 - 🔧 &nbsp; Advanced Backend Development  
 - 🔧 &nbsp; System Design Basics  
 - 🔧 &nbsp; Full-Stack Deployment  
-- 🔧 &nbsp; AI Trustworthiness and Safety  
+- 🔧 &nbsp; AI Trustworthiness and Safety   -->
 
-<br>
+
 
 
 <h3>🤝🏻 Connect with Me</h3>
@@ -67,7 +67,7 @@
 
 <hr>
 
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align="right">
 
